@@ -71,13 +71,9 @@ nav ul li a:focus{
 section.sec1 {
     width: 100%;
     height: 100vh;
-    background-image: url('references/BG.jpg');
+    background-image: url('BG.jpg');
     background-size: cover;
     background-position: center;
-}
-
-.content{
-    margin-top: 80px;
 }
 
 #section1 p{
